@@ -1,0 +1,28 @@
+_repo: Platform-Monologues_18969
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Tucker, T. G. (Thomas George)
+    alias: Tucker, Thomas George
+    birthdate: 1859
+    deathdate: 1946
+    gutenberg_agent_id: '4683'
+    url: http://www.gutenberg.org/2009/agents/4683
+    wikipedia: http://www.adb.online.anu.edu.au/biogs/A120310b.htm
+description: Cover -- Contents.
+gutenberg_issued: '2006-08-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '18969'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Literature -- History and criticism'
+title: Platform Monologues
+url: http://www.gutenberg.org/ebooks/18969
