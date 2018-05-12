@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/4683
     wikipedia: http://www.adb.online.anu.edu.au/biogs/A120310b.htm
 description: Cover -- Contents.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/18969#Platform-Monologues
 gutenberg_issued: '2006-08-02'
 gutenberg_type: Text
 identifiers:
